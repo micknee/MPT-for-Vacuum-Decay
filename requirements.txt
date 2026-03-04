@@ -1,0 +1,10 @@
+# Core numerical + optimization
+jax
+optax
+
+# Plotting
+matplotlib
+
+# Notebook runtime (needed if people run it via Jupyter)
+ipython
+jupyterlab
